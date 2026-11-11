@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/Imagen/imagen presentacion.png</name>
-			<type>1</type>
-			<location>C:/Users/Casas/OneDrive/Escritorio/imagen presentacion.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
